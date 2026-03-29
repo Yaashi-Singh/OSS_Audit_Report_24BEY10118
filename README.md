@@ -1,6 +1,6 @@
 # The Open Source Audit: VLC
 
-**Student Name:** Yaashi-Singh <br>
+**Student Name:** Yaashi Singh <br>
 **Registration Number:** 24BEY10118 <br>
 **Project Focus:** VLC (FOSS Audit)
 
